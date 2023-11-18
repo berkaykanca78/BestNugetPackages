@@ -8,4 +8,5 @@
 - Entity Framework Core
 - Entity Framework Core Pagination ~ Taner Saydam
 - Fluent Validation
-- SmartEnum
+- SmartEnum ~ Steve Smith
+
