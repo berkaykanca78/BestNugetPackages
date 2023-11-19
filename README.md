@@ -15,3 +15,4 @@
 - **Serilog:** Loglama mekanizması için kullanılır. Seq kütüphanesi ile birlikte kullanılırsa loglar görselleştirleiblir ve arayüz üzerinden kolaylık erişileiblir.
 - **SmartEnum ~ Steve Smith:** Birçok faydalı özelliği vardır, benim en çok hoşuma giden özelliği ise enumlarda kategorilendirme işlemlerinin kolayca yapılabilmesi.
 - **Swashbuckle.AspNetCore ~ Swagger:** Swagger arayüzü sayesinde Controller içerisindeki REST API metodlarımıza istek atıp canlı olarak test edebilmemizi sağlar.
+ 
