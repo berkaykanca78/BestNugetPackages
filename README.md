@@ -1,6 +1,6 @@
-# En Çok Kullandığım Nuget Paketleri Hakkında:
+# En Çok Kullandığım NuGet Paketleri Hakkında:
 ---
-## Nuget Paketleri: (9)
+## NuGet Paketleri: (9)
 > Kullanımını Tavsiye Ettiğim Harici Kütüphaneler Burada Yer Alacaktır. 
 
 - AutoMapper: ViewModel ile Modelinizi istediğiniz şekilde eşleştirir ve gelen değerleri tek tek eşitlemeye gerek kalmadan kodu daha temiz yazmamıza yardımcı olur.
