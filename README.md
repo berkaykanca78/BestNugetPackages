@@ -1,6 +1,6 @@
-# En Çok Kullandığım NPM Paketleri Hakkında:
+# En Çok Kullandığım Nuget Paketleri Hakkında:
 ---
-## NPM Packages: (6)
+## Nuget Paketleri: (6)
 > Kullanimini Tavsiye Ettigim Harici Kütüphaneler Burada Yer Alacaktir. 
 
 - AutoMapper
