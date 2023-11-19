@@ -1,6 +1,6 @@
 @BestNpmPackages_HostAddress = http://localhost:5183
 
-GET {{BestNpmPackages_HostAddress}}/AutoMapper/Test
+GET {{BestNpmPackages_HostAddress}}/AutoMapper
 Accept: application/json
 
 ###
