@@ -4,7 +4,7 @@
 > Kullanımını Tavsiye Ettiğim Harici Kütüphaneler Burada Yer Alacaktır. 
 
 - **AutoMapper**: ViewModel ile Modelinizi istediğiniz şekilde eşleştirir ve gelen değerleri tek tek eşitlemeye gerek kalmadan kodu daha temiz yazmamıza yardımcı olur.
-- **Benchmark** DotNet: Benchmark testlerini kolayca uygulamamıza yardımcı olur, yazdığımız kodların daha performanslı nasıl çalışabileceğini test ederken kullanabiliriz.
+- **Benchmark DotNet:** Benchmark testlerini kolayca uygulamamıza yardımcı olur, yazdığımız kodların daha performanslı nasıl çalışabileceğini test ederken kullanabiliriz.
 - **Bogus:** Sahte veri oluşturarak Unit Testlerde kullanılabilir, ben genellikle proje ilk kez ayağa kalktığında veritabanınındaki tabloları beslemek için kullanıyorum.
 - **Entity Framework Core:** Genellikle LINQ kütüphanesi ile birlikte kullanılır, veritabanındaki tabloların verilerin nesneler halinde kod içerisinde rahatlıkla kullanımını sağlar.
 - **Entity Framework Core Pagination ~ Taner Saydam:** EF ile birlikte kullanılıp sayfalamaları kolayca yapmamıza yardımcı olur. 
