@@ -23,6 +23,6 @@ public class BenchmarkDotnetController : ControllerBase
 
         var result = BenchmarkRunner.Run<CollectionRun>(config);
 
-        return "Benchmark Testi Sonuçları\n" + result.LogFilePath;
+        return "Benchmark Testi Sonuçları Bu Dosyada Yer Alacaktır: " + result.LogFilePath;
     }
 }
