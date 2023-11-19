@@ -1,17 +1,24 @@
-using FluentValidation.AspNetCore;
-using FluentValidation;
-using Microsoft.EntityFrameworkCore;
-using BaseWebApp.Utilities.EFCore;
+using BaseWebApp.Models;
 using BaseWebApp.Services.Abstract;
 using BaseWebApp.Services.Concrete;
-using BaseWebApp.Models;
+using BaseWebApp.Utilities.EFCore;
 using BaseWebApp.Utilities.FluentValidation;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+#region Serilog
+builder.Host.UseSerilog((builderContext, loggerConfiguration) => loggerConfiguration
+    .WriteTo.Console()
+    .WriteTo.File("logs/app.log", flushToDiskInterval: TimeSpan.FromDays(1)));
+#endregion
 
 #region Swagger
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

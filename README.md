@@ -12,6 +12,6 @@
 - **Fluent Validation:** Validasyon işlemlerinde eskiden attribute üzerinden ilgili zorunlu alanlar, hata mesajları vs ayarlanılırdı. Artık bu paket ile birlikte fluent şekilde daha anlaşılır validasyon kontrolleri yapılaiblmektedir.
 - **GrapeCity Pdf:** .NET uygulamalarında ilgili resim, metin, grafik gibi verilerin kolayca pdf içerisinde kullanımını sağlamaktadır.
 - **Polly:** Endpointe istek atıldığında geçici bir problem , sistemsel bir hata, zaman aşımı, atılan istek sayısı kısıtlaması, başarısızlık durumunda bir B planı olarak işlemi kesme gibi vb alanlar da çalışmalar yapabilirsiniz. Bu projede tekrar deneme üzerine kullanılmıştır.
-- **Serilog:** Loglama mekanizması için kullanılır.
+- **Serilog:** Loglama mekanizması için kullanılır. Seq kütüphanesi ile birlikte kullanılırsa loglar görselleştirleiblir ve arayüz üzerinden kolaylık erişileiblir.
 - **SmartEnum ~ Steve Smith:** Birçok faydalı özelliği vardır, benim en çok hoşuma giden özelliği ise enumlarda kategorilendirme işlemlerinin kolayca yapılabilmesi.
 - **Swashbuckle.AspNetCore ~ Swagger** Swagger arayüzü sayesinde Controller içerisindeki REST API metodlarımıza istek atıp canlı olarak test edebilmemizi sağlar.
