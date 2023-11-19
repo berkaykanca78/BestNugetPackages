@@ -1,6 +1,6 @@
 # En Çok Kullandığım Nuget Paketleri Hakkında:
 ---
-## Nuget Paketleri: (6)
+## Nuget Paketleri: (8)
 > Kullanimini Tavsiye Ettigim Harici Kütüphaneler Burada Yer Alacaktir. 
 
 - AutoMapper
