@@ -38,6 +38,9 @@ builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddScoped<IValidator<Product>, ProductValidator>();
 #endregion
 
+#region Polly
+builder.Services.AddHttpClient();
+#endregion
 
 var app = builder.Build();
 
