@@ -5,7 +5,7 @@
 ## NuGet Paketleri: (12)
 > Kullanımını Tavsiye Ettiğim Harici Kütüphaneleri Kısa Bir Şekilde Anlatmaktayım. 
 
-- **AutoMapper**: ViewModel ile Modelinizi istediğiniz şekilde eşleştirir ve gelen değerleri tek tek eşitlemeye gerek kalmadan kodu daha temiz yazmamıza yardımcı olur.
+- **AutoMapper:** ViewModel ile Modelinizi istediğiniz şekilde eşleştirir ve gelen değerleri tek tek eşitlemeye gerek kalmadan kodu daha temiz yazmamıza yardımcı olur.
 - **Benchmark DotNet:** Benchmark testlerini kolayca uygulamamıza yardımcı olur, yazdığımız kodların daha performanslı nasıl çalışabileceğini test ederken kullanabiliriz.
 - **Bogus:** Sahte veri oluşturarak Unit Testlerde kullanılabilir, ben genellikle proje ilk kez ayağa kalktığında veritabanınındaki tabloları beslemek için kullanıyorum.
 - **Entity Framework Core:** Genellikle LINQ kütüphanesi ile birlikte kullanılır, veritabanındaki tabloların verilerin nesneler halinde kod içerisinde rahatlıkla kullanımını sağlar.
@@ -21,6 +21,7 @@
 ## İleride Eklenecek NuGet Paketleri: (3)
 > Yakında Paylaşılacak Paketler. 
 
-- **Identity**:
-- **JWT**:
-- **MediatR**:
+- **Identity:**
+- **JWT:**
+- **MediatR:**
+- **GenericEmail ~ Taner Saydam:**
