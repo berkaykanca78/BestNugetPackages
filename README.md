@@ -1,5 +1,5 @@
 # En Çok Kullandığım NuGet Paketleri:
-![Clean Architecture Template!](https://thehackernews.com/images/-wuntnugRO3A/YOWi6bMmeMI/AAAAAAAADHU/MnnR4d51SsAnjygO_coraCpCw5WL6qRRwCLcBGAsYHQ/s0/nuget-hacking.jpg "Clean Architecture")
+![CNuGet Packages!](https://thehackernews.com/images/-wuntnugRO3A/YOWi6bMmeMI/AAAAAAAADHU/MnnR4d51SsAnjygO_coraCpCw5WL6qRRwCLcBGAsYHQ/s0/nuget-hacking.jpg "NuGet Packages")
 
 ---
 ## NuGet Paketleri: (12)
