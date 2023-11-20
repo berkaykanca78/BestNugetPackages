@@ -1,5 +1,5 @@
 # En Çok Kullandığım NuGet Paketleri:
-![NuGet Packages Template!]([https://miro.medium.com/v2/resize:fit:640/format:webp/1*0Pg6_UsaKiiEqUV3kf2HXg.png](https://thehackernews.com/images/-wuntnugRO3A/YOWi6bMmeMI/AAAAAAAADHU/MnnR4d51SsAnjygO_coraCpCw5WL6qRRwCLcBGAsYHQ/s0/nuget-hacking.jpg) "NuGet Packages")
+![NuGet Packages Template!]([https://thehackernews.com/images/-wuntnugRO3A/YOWi6bMmeMI/AAAAAAAADHU/MnnR4d51SsAnjygO_coraCpCw5WL6qRRwCLcBGAsYHQ/s0/nuget-hacking.jpg) "NuGet Packages")
 
 ---
 ## NuGet Paketleri: (12)
