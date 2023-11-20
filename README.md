@@ -1,7 +1,7 @@
-# En Çok Kullandığım NuGet Paketleri Hakkında:
+# En Çok Kullandığım NuGet Paketleri:
 ---
 ## NuGet Paketleri: (12)
-> Kullanımını Tavsiye Ettiğim Harici Kütüphaneler Burada Yer Alacaktır. 
+> Kullanımını Tavsiye Ettiğim Harici Kütüphaneleri Kısa Bir Şekilde Anlatmaktayım. 
 
 - **AutoMapper**: ViewModel ile Modelinizi istediğiniz şekilde eşleştirir ve gelen değerleri tek tek eşitlemeye gerek kalmadan kodu daha temiz yazmamıza yardımcı olur.
 - **Benchmark DotNet:** Benchmark testlerini kolayca uygulamamıza yardımcı olur, yazdığımız kodların daha performanslı nasıl çalışabileceğini test ederken kullanabiliriz.
