@@ -18,7 +18,7 @@
 - **SmartEnum ~ Steve Smith:** Birçok faydalı özelliği vardır, benim en çok hoşuma giden özelliği ise enumlarda kategorilendirme işlemlerinin kolayca yapılabilmesi.
 - **Swashbuckle.AspNetCore ~ Swagger:** Swagger arayüzü sayesinde Controller içerisindeki REST API metodlarımıza istek atıp canlı olarak test edebilmemizi sağlar.
  
-## İleride Eklenecek NuGet Paketleri: (5)
+## İleride Eklenecek NuGet Paketleri: (7)
 > Yakında Paylaşılacak Paketler. 
 
 - **GenericEmail ~ Taner Saydam:**
@@ -26,3 +26,5 @@
 - **JWT:**
 - **MediatR:**
 - **Moq:**
+- **Newtonsoft.Json:**
+- **GenericRepository ~ Taner Saydam:**
